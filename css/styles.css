@@ -30,6 +30,7 @@ html {
 
 .icons-social i {
 	font-size: 3em;
+	animation: float 6s ease-in-out infinite;
 }
 
 /* Custom Styles */
